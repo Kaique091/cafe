@@ -75,6 +75,9 @@ section{
     margin-top: 1rem;
     display: inline-block;
 }
+.btn:hover{
+    letter-spacing: 0.1rem;
+}
 .home-container{
     background: url("../imagens/imagens/home-img.jpg");
     background-position: center;
